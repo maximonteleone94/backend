@@ -44,20 +44,20 @@ class ProductManager {
 }
 
 const product1 = {
-    title: 'Metal Gear Solid 3',
-    description: 'Best Game Ever',
-    price: 600,
-    thumbnail: 'https://static.wikia.nocookie.net/metalgear/images/9/97/Metal_Gear_Solid_Subsistence.jpg/revision/latest?cb=20090809021800&path-prefix=es',
-    code: 'AB123',
+    title: 'APC',
+    description: 'Limpiador Multi proposito Liquido',
+    price: 1200,
+    thumbnail: 'https://www.facebook.com/photo/?fbid=5341924442501948&set=pcb.5341924599168599',
+    code: '0001',
     stock: 10
 };
 const product2 = {
-    title: 'Metal Gear Solid 4',
-    description: 'Second best Game Ever',
-    price: 610,
-    thumbnail: 'https://static.wikia.nocookie.net/metalgear/images/6/69/Metal_gear_solid_4_caratula.jpg/revision/latest?cb=20130526191208&path-prefix=es',
-    code: 'ACM1PT',
-    stock: 15
+    title: 'Limpia Cristales',
+    description: 'Limpia Cristales',
+    price: 990,
+    thumbnail: 'https://m.facebook.com/MRMDetailing/photos/%EF%B8%8Fultra-glass-cleaner-500ml-limpia-vidrios-con-antiempa%C3%B1ante200/2358457187515370/',
+    code: '0002',
+    stock: 10
 };
 
 const manager = new ProductManager();
