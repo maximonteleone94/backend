@@ -1,0 +1,20 @@
+[
+    {
+      "title": "APC",
+      "description": "Limpiador Multi proposito Liquido",
+      "price": 1200,
+      "thumbnail": "https://www.facebook.com/photo/?fbid=5341924442501948&set=pcb.5341924599168599",
+      "code": "0001",
+      "stock": 10,
+      "id": 1
+    },
+    {
+      "title": "Limpia Cristales",
+      "description": "Limpia Cristales",
+      "price": 990,
+      "thumbnail": "https://m.facebook.com/MRMDetailing/photos/%EF%B8%8Fultra-glass-cleaner-500ml-limpia-vidrios-con-antiempa%C3%B1ante200/2358457187515370/",
+      "code": "0002",
+      "stock": 15,
+      "id": 2
+    }
+  ]
