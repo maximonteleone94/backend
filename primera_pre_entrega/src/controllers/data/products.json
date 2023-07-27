@@ -1,0 +1,13 @@
+[
+    {
+      "title": "APC",
+      "description": "Limpiador Multi proposito Liquido",
+      "price": 1200,
+      "thumbnail": "https://www.facebook.com/photo/?fbid=5341924442501948&set=pcb.5341924599168599",
+      "code": "0001",
+      "stock": 10,
+      "category": "limpiador",
+      "status": true,
+      "id": 1
+    }
+  ]
